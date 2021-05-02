@@ -1,0 +1,8 @@
+.card-purple:not(.card-outline)>.card-header {
+    background-color: #d1065a !important;
+}
+
+.sidebar-dark-purple .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-purple .nav-sidebar>.nav-item>.nav-link.active {
+    background-color: #b9083d;
+    color: #fff;
+}
